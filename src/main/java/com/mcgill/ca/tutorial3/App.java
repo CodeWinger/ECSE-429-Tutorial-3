@@ -1,14 +1,13 @@
 package com.mcgill.ca.tutorial3;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class App
 {
+    private int x;
+
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        
+    	String s = null;
+    	System.out.println(s);
     }
+
 }
